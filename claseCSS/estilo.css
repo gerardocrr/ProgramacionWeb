@@ -1,0 +1,17 @@
+p,
+h1 {
+  color: red;
+  font-family: arial;
+}
+
+#parrafo {
+  color: blueviolet;
+}
+
+.parrafoclase {
+  color: darkgreen;
+}
+
+div h1 {
+  color: yellow;
+}

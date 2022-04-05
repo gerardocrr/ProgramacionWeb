@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  width: 100px;
+  padding: 20px;
+  border: 10px;
+  border-style: solid;
+  border-color: blue;
+  display: inline-block;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+div {
+  /* background-color: crimson; */
+  /* background-color: #000000; */
+  /* background-color: rgb(30, 136, 108); */
+  background-color: rgba(30, 136, 108, 0.5);
+  display: block;
+  text-align: center;
+}

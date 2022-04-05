@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: blueviolet;
+}
+
+.boton {
+  padding: 20px;
+}
+
+.boton li {
+  display: inline;
+}
+
+.boton li a {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  background-color: black;
+}
+
+.boton li a:hover {
+  background-color: white;
+  color: black;
+}
+
+.boton li a:active {
+  background-color: gray;
+}
